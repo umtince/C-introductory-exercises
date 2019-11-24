@@ -24,6 +24,7 @@ int main()
 		bosluk--;
 	}
 
+
 	
    return 0;
 }
