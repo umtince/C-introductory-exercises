@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-/* Question 59 for-loop */
+/* Question 59 for-loop  https://www.w3resource.com/c-programming-exercises/for-loop/index.php*/
 
 int main()
 {
