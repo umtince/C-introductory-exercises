@@ -3,6 +3,7 @@
 
 /* Question 59 for-loop  https://www.w3resource.com/c-programming-exercises/for-loop/index.php*/
 
+
 int main()
 {
 	int digit, input, num,num2;
