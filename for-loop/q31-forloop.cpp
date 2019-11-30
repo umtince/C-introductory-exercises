@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Question 31  https://www.w3resource.com/c-programming-exercises/for-loop/index.php
+
 int main()
 {
 	int row,space;
