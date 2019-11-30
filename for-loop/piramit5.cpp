@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Question 13 https://www.w3resource.com/c-programming-exercises/for-loop/index.php
+
 int main()
 {
 	int satir;
@@ -21,6 +23,7 @@ int main()
 		printf("\n");
 		bosluk--;
 	}
+
 
 	
    return 0;
