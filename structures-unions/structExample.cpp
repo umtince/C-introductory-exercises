@@ -5,7 +5,7 @@ struct ogrenci{
 	char ad[20];
 	char soyad[20];
 	float ort;
-}Ogrenci;
+};
 
 #define LENGTH 4
 
